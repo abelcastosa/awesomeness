@@ -32,6 +32,7 @@ Si quieres sugerirme algún enlace para añadir a la lista puedes [enviarme un c
 + Varios
 	+ [KeyCDN Tools](https://tools.keycdn.com/): test de velocidad de un sitio web, cabeceras HTTP, ping, traceroute, SSL Freak, etc...
 	+ [ViewDNS](http://viewdns.info/): informe DNS, historial IP, búsquedas reversas (IP, NS, MX), Whois, cabeceras http, etc...
+	+ [.htpasswd generator](http://aspirine.org/htpasswd_en.html): generador de ficheros *.htpasswd* con generador de contraseñas integrado y varios algoritmos disponibles.
   
 ## Varios
 + [CloudConvert](https://cloudconvert.com/): conversor de múltiples tipos de ficheros.
