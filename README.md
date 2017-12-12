@@ -20,6 +20,8 @@ Si quieres sugerirme algún enlace para añadir a la lista puedes [enviarme un c
 
 ## Servidores
 + DNS
+	+ [DNS Propagation Checker](http://www.preshweb.co.uk/cgi-bin/dns-propagation-tracker.pl): Comprueba la propagación de DNS en una lista de servidores específicos, *aleatorios* o proporcionados por nosotros.
+	+ [DNSWatch](https://www.dnswatch.info/): Resolución remota de DNS. **NO** se especifica servidor al que consultar, utiliza los datos públicos para el mundo.
 	+ [NSLookup](http://network-tools.com/nslook/): Comprobar las DNS de un dominio para un servidor DNS concreto.
 	+ [What's my DNS?](https://www.whatsmydns.net/) Comprobador de propagación de DNS.
 + Monitorización
@@ -27,12 +29,15 @@ Si quieres sugerirme algún enlace para añadir a la lista puedes [enviarme un c
 	+ [Uptime Robot](https://uptimerobot.com/): monitorización y notificación de caídas de servidores (HTTP(s), ping, puertos y palabras clave).
 + Peticiones HTTP: muestran las respuestas (cabeceras y/o contenido) a las peticiones HTTP
 	+ [HTTP Debugger](https://www.httpdebugger.com/tools/ViewHttpHeaders.aspx)
+	+ [HTTP Status](https://httpstatus.io/)
 	+ [Rex Swain's HTTP Viewer](http://www.rexswain.com/httpview.html)
-	+ [Web Sniffer](http://web-sniffer.net/)
+	+ [Web Sniffer](http://websniffer.cc/)
 + Varios
-	+ [KeyCDN Tools](https://tools.keycdn.com/): test de velocidad de un sitio web, cabeceras HTTP, ping, traceroute, SSL Freak, etc...
-	+ [ViewDNS](http://viewdns.info/): informe DNS, historial IP, búsquedas reversas (IP, NS, MX), Whois, cabeceras http, etc...
 	+ [.htpasswd generator](http://aspirine.org/htpasswd_en.html): generador de ficheros *.htpasswd* con generador de contraseñas integrado y varios algoritmos disponibles.
+	+ [KeyCDN Tools](https://tools.keycdn.com/): test de velocidad de un sitio web, cabeceras HTTP, ping, traceroute, SSL Freak, etc...
+	+ [nench.sh](https://github.com/n-st/nench): script para poner a prueba el rendimiento de un servidor (CPU, ioping, dd y test de velocidad)
+	+ [Ping 90](https://asm.ca.com/en/ping.php): realiza un ping desde 90 localizaciones diferentes de forma simultánea a un servidor.
+	+ [ViewDNS](http://viewdns.info/): informe DNS, historial IP, búsquedas reversas (IP, NS, MX), Whois, cabeceras http, etc...
   
 ## Varios
 + [CloudConvert](https://cloudconvert.com/): conversor de múltiples tipos de ficheros.
